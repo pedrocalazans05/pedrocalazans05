@@ -76,5 +76,3 @@ Adoro explorar novas tecnologias e trabalhar em projetos desafiadores que fazem 
     </td>
   </tr>
 </table>
-
-![Snake animation ](https://github.com/pedrocalazans05/)
