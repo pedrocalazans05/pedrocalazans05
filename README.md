@@ -33,8 +33,6 @@ Adoro explorar novas tecnologias e trabalhar em projetos desafiadores que fazem 
 <br>
 
 <div style="display: inline_block">
-  <img align="center" height = "80px" weight = "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" height = "80px" weight = "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" height = "80px" weight = "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height = "80px" weight = "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" height = "80px" weight = "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
