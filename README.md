@@ -3,13 +3,12 @@
 <br>
 
 Bem-vindo ao meu perfil do GitHub! ❤️
-Sou um desenvolvedor **Backend** **Java** a e estudante de **Engenharia** **de** **Software**. 
+Sou estudante de **Engenharia** **de** **Software**. 
 Adoro explorar novas tecnologias e trabalhar em projetos desafiadores que fazem a diferença. 🤠
 
 <br>
 
-- **🔭 Atualmente**: Trabalhando em um App de notas completo e gratuito
-- **🌱 Atualmente aprendendo**: Java e Flutter
+- **🌱 Atualmente aprendendo**: Python e Flutter
 - **👯 Interessado em**: Colaborar em projetos open-source, startups inovadoras, e novas tecnologias
 
 # Social 📱
