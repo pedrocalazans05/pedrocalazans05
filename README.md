@@ -6,11 +6,6 @@ Bem-vindo ao meu perfil do GitHub! ❤️
 Sou estudante de **Engenharia** **de** **Software**. 
 Adoro explorar novas tecnologias e trabalhar em projetos desafiadores que fazem a diferença. 🤠
 
-<br>
-
-- **🌱 Atualmente aprendendo**: Python e Flutter
-- **👯 Interessado em**: Colaborar em projetos open-source, startups inovadoras, e novas tecnologias
-
 # Social 📱
 
 <br>
